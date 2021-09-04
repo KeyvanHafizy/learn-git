@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+    font-family: 'segoe print';
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 30vh;
+    margin: 0;
+    padding: 0;
+}
+p {
+    background-color: black;
+    color: blue;
+    margin: 10px;
+    padding: 10px;
+}
+a {
+    width:  200px;
+    height: 100px;
+    line-height: 100px;
+    background-color: brown;
+    color: chartreuse;
+    padding: 10px;
+    margin-top: -100px;
+}
